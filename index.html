@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Christmas Scavenger Hunt</title>
+    <link rel="icon" type="image/x-icon" href="https://freesvg.org/img/8bitxmas.png">
+    <link rel = "stylesheet" href = "treasurehunt.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1> Christmas Scavenger Hunt </h1>
+    <div id ="gamerules">
+    <h2> Game Rules </h2>
+      <ol>
+        <li> Click the presents to reveal what's inside.</li>
+        <li> If you click on the coal, you lose. </li>
+        <li> If you click on the toy, you win! </li>
+      </ol>
+    </div>
+      <img src="https://hardcore-gamer.s3.amazonaws.com/uploads/2013/12/8bitsantaclaus.jpg" alt="santa on sleigh 8 bit" height="200px"></img>
+    <table>
+      <tr>
+        <td onclick="treasure(0)" id=0> 🎁 </td>
+        <td onclick="treasure(1)" id=1> 🎁 </td>
+        <td onclick="treasure(2)" id=2> 🎁 </td>
+      </tr>
+      <tr>
+        <td onclick="treasure(3)" id=3> 🎁 </td>
+        <td onclick="treasure(4)" id=4> 🎁 </td>
+        <td onclick="treasure(5)" id=5> 🎁 </td>
+      </tr>
+      <tr>
+        <td onclick="treasure(6)" id=6> 🎁 </td>
+        <td onclick="treasure(7)" id=7> 🎁 </td>
+        <td onclick="treasure(8)" id=8> 🎁 </td>
+      </tr>
+    </table>
+    <button type="button" onclick="location.reload()">Restart Game</button>
+    <footer>
+      Matthew and Lea |
+     <a href="https://www.google.com/" target="_blank"> Google </a>
+    </footer>
+    <script type="text/javascript" src="treasurehunt.js"></script>
+  </body>
+</html>
