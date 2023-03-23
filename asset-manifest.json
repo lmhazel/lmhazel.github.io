@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c90c9f38.css",
+    "main.js": "/static/js/main.bbafdccc.js",
+    "static/js/787.14328c1c.chunk.js": "/static/js/787.14328c1c.chunk.js",
+    "static/media/weather-app.png": "/static/media/weather-app.f7a8ec606c3aa20b18a2.png",
+    "static/media/PackRat.png": "/static/media/PackRat.e6a14ba7fe16aab74737.png",
+    "static/media/gradientBackground.png": "/static/media/gradientBackground.be1753cc89dd78b1c18f.png",
+    "static/media/fourth-page.png": "/static/media/fourth-page.6cde34e33139ce541be0.png",
+    "static/media/piglatin.png": "/static/media/piglatin.6b324997efc89f31ca41.png",
+    "static/media/drawing.png": "/static/media/drawing.74ed8131bd7e5d9167f0.png",
+    "static/media/mail.PNG": "/static/media/mail.2fc9f5c8f15b45ca3027.PNG",
+    "static/media/github.PNG": "/static/media/github.b56df8a1cb22c7d564a2.PNG",
+    "static/media/linkedin.png": "/static/media/linkedin.cccbb4dc942d1a7b9c35.png",
+    "static/media/project-one.png": "/static/media/project-one.2ed9d89ef97b4f7901b0.png",
+    "static/media/project-three.png": "/static/media/project-three.ad18e787b5899e0ecccb.png",
+    "static/media/project-two.png": "/static/media/project-two.da4204cdaf276ad4b5bc.png",
+    "static/media/line.png": "/static/media/line.61d2e93ec359b7d5096e.png",
+    "index.html": "/index.html",
+    "main.c90c9f38.css.map": "/static/css/main.c90c9f38.css.map",
+    "main.bbafdccc.js.map": "/static/js/main.bbafdccc.js.map",
+    "787.14328c1c.chunk.js.map": "/static/js/787.14328c1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90c9f38.css",
+    "static/js/main.bbafdccc.js"
+  ]
+}
